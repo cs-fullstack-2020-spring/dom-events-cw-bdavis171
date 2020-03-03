@@ -63,3 +63,11 @@ footer {
     grid-row: 12/14;
     padding-left: 1%;
 }
+
+.blueBackground {
+    background-color: blue;
+}
+
+.redBackground {
+    background-color: red;
+}
