@@ -7,8 +7,9 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* check your font family error (should be in quotes) */
 }
-
+/* GREAT GRID */
 .container {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
@@ -16,7 +17,6 @@ body {
     border: 2px solid gray;
     height: 90vh;
     color: whitesmoke;
-    
 }
 
 header {
